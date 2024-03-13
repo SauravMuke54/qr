@@ -1,1 +1,1 @@
-global.url= "http://sksqratt.com/app/"
+global.url= "http://xdmcgm2t.infinityfree.com"
